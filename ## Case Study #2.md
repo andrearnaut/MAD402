@@ -31,7 +31,7 @@ A repeating pattern found in financial applications is that the application will
     
     -backdrop of some beautiful nature
     -shows overview of various accounts that user has to the financial application
-    -tab bar shows home screen, accounts, transfers, and more (i.e tips for direct investing, rewards with the financial company,etc)
+    -tab bar shows home screen, accounts, transfers, and more (i.e tips for direct investing, rewards with the financial company)
 
 
 ## Conclusion
