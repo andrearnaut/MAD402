@@ -15,17 +15,20 @@ A repeating pattern found in financial applications is that the application will
 
 ## Screenshots
 -first screenshot   https://cdn.dribbble.com/userupload/11305149/file/original-18d4a0fcc41ffd2f3010338fb527176c.jpg?resize=1905x1429
+    
     -spedometer for spending limits
     -financial dashboard appears with both withdraw and deposit options
     -shows previous transaction history and number of transactions
     -shows eTransfer screen of deposits and withdraws
 
 -second screenshot  https://cdn.dribbble.com/userupload/4859636/file/original-c58c2dc381128548e554b2d7b6e74897.jpg?resize=1024x768
+   
     -currency exchange screen
         -can transfer from various currencies such as USD, EURO, CAD, etc
     -very bright colours that make the app have a pop to it
 
 -third screenshot   https://www.rbcroyalbank.com/ways-to-bank/mobile/rbc-mobile-app/_assets-custom/images/Summary_EN.png
+    
     -backdrop of some beautiful nature
     -shows overview of various accounts that user has to the financial application
     -tab bar shows home screen, accounts, transfers, and more (i.e tips for direct investing, rewards with the financial company,etc)
